@@ -10,3 +10,9 @@ Repo pour mettre en place un serveur fonctionnel sur une Raspberry Pi du KI. Cel
 
 **Usage:**
     ....
+
+
+# Organisation:
+- ENPC, [École des Ponts et chausséees](https://ecoledesponts.fr/)
+- Club [KI](https://clubinfo.enpc.org/)
+
