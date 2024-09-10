@@ -1,4 +1,4 @@
-# My Awesome Project
+## COHEZ-Med
 
 **Description:**
 Repo pour mettre en place un serveur fonctionnel sur une Raspberry Pi du KI. Celui-ci devra héberger un site permettant d'indiquer si la med est ouverte ou fermée, ainsi qu'une page d'administration pour que les membres de la med puissent mettre à jour l'état d'ouverture.
