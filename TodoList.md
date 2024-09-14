@@ -21,3 +21,5 @@
 - [ ] Différents navigateurs
 
 ## ...
+---
+Inscrivez votre nom devant chaque tâche que vous souhaitez réaliser ou dont vous voulez vous charger. 
