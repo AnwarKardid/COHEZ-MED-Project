@@ -1,7 +1,7 @@
 # Todo List:
 
 ## La Raspberry Pi: 
-- [x] Avoir une Raspberry Pi (**Emilie**)
+- [x] Avoir une Raspberry Pi (*Emilie*)
 - [ ] Accessoires (microSD card, ..)
 - [ ] Installation linux (Debian OS)
 - [ ] ...
@@ -10,8 +10,8 @@
 - [ ] une adresse IP
 - [ ] les ports
 
-## Django: (**Anwar** et **Clement**):
-- [ ] Installation Django: `pip install django`
+## Django: (*Anwar* et *Clement*):
+- [x] Installation Django: `pip install django`
 - [ ] Configuration Django 
 - [ ] Page pour les admins
 - [ ] Page pour le public
