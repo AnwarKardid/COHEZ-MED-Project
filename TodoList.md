@@ -4,7 +4,7 @@
 - [x] Avoir une Raspberry Pi (*Emilie*)
 - [ ] Accessoires (microSD card, ..)
 - [ ] Installation linux (Debian OS)
-- [ ] ...
+- [ ] ..
 
 ## Configuration reseau:
 - [ ] une adresse IP
